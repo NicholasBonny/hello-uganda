@@ -1,0 +1,311 @@
+<resources>
+    <string name="app_name">Hello-UG</string>
+    <string name="welcome_note">Hello-UG</string>
+    <!-- Boda information Here -->
+    <!-- boda_start -->
+    <string name="safe_info">
+        Safe boda offers a reliable ride to pick you up in minutes with the "Safe boda app".
+        The app is available on both google play store and apple store.
+    </string>
+    <string name="taxify_info">
+        Taxify boda offers the best ride to pick you up in minutes with the "taxify app".
+        The app is available on both google play store and apple store.
+    </string>
+    <string name="uber_info">
+        Uber boda offers a reliable ride to pick you up in minutes with the "uber boda app".
+        The app is available on both google play store and apple store.
+    </string>
+    <string name="boda_boda">BODA BODA</string>
+    <string name="boda_info">
+        Boda boda in Uganda is one of the most populary used means of transport by people
+        here to move around the city because of their ability to move fast by and escape traffic.
+        Trave safe with one of our trusted boda service prviders and enjoy your ride.
+    </string>
+    <!-- boda_end -->
+
+    <!-- Taxi information Here -->
+    <!-- Taxi_start -->
+    <string name="special_hire">SPECIAL HIRE</string>
+    <string name="taxi_info">
+        When you land at Entebbe International airport its possible to hire an Airport taxi that
+        will take you to your destination.Airport Taxis change around USD 30-40 from
+        airport to Kampala. Its arouns36kms. Safe journy.
+    </string>
+    <string name="friendship">
+        Need a ride?  UGS 2000 per km....
+        Just call the hotlien 0216666888 and they will pick you from wherever you are.
+    </string>
+    <string name="taxify_taxi">
+        Get a reliable driver to pickup you in minutes with the Taxify app. It has the
+        unveiled new lowered prices for the month to their riders.
+    </string>
+    <string name="uber_taxi">
+        Uber is a ridesharing app for fast, reliable rides in minutes-day or night.
+        There is no need to park or wait for taxi or bus. Get the app now.
+    </string>
+    <string name="special_taxi">
+        Entebbe Airport pick Ups and Drops off trips for making Entebbe airport Pick-up
+        arrangements Entebbe Airport Pick-up and Drop-off transfers to and from Kampala
+    </string>
+    <string name="quick_taxi">
+        Quick Taxi promises cheapest fares ever around town. The minmum charge the
+        yellow-painted taxis is UGS 900 per kilometre.
+    </string>
+    <!-- Taxi_end -->
+
+    <!-- Bus information Here -->
+    <!-- bus_start -->
+    <string name="bus">BUSES</string>
+    <string name="bus_info">
+        Are you looking forward to travelling a long distance? The answer is the bus..
+        When compared to driving a private car, buses are more advantageous as you will not be
+        bothered with driving , looking for parking space and any other drive-related problems.
+    </string>
+    <string name="pioneer">
+        Johnson street, kampala, mobile +256 771331500/ +256 757500820.
+        Email pioneer@gmail.com, around kampala only
+    </string>
+    <string name="bus2">
+        Johnson street, kampala, mobile +256 771331500/ +256 757500820.
+        Email go-gaaga@gmail.com, koboko Nebbi, Paidha
+    </string>
+    <string name="bus3">
+        Jinja road - opposite Shell- Kampala. Tel: (031)2370307. Mobile +256 784573867/ +256 772384906.
+        Email: kampalacoach@yahoo.com, Routes: Kampala-juba, kampala-kiagli, kampala-Dalasaam
+    </string>
+    <string name="trinity">
+        Namirenbe Road Bakuli. Tel: (031)2370307. Mobile +256 784573867/ +256 772384906.
+        Email: kampalacoach@yahoo.com, Routes: kampala-kiagli, kampala-Dalasaam.
+    </string>
+    <string name="jaguar">
+        30/32 Namirenbe Road, Kampala Tel 041 4251855 fax (041) 4231414
+        Email: jaguar@inforcom.co.ug. Routes: kampala - kigali, kampala - Bujumburs, Kampala - Goma
+    </string>
+    <string name="link">
+       Kisenyi bus terminal. Tel: (031)2370307. Mobile +256 784573867/ +256 772384906.
+        Email: kampalacoach@yahoo.com, Routes: kampala-kiagli, kampala-Dalasaam.
+    </string>
+    <string name="kaliter">
+       Namayuba bus terminal Tel: (031)2370307. Mobile +256 784573867/ +256 772384906.
+        Email: kampalacoach@yahoo.com, Routes: kampala-kiagli, kampala-Dalasaam.
+    </string>
+    <!-- bus_end -->
+
+    <!-- accomodation information Here -->
+    <!-- apartments_start -->
+    <string name="apartment">APARTMENTS</string>
+    <string name="apartment1">
+         Arch Apartments, 3Combe Road, Entebbe, Tel: (041) 4323700, mobile: +256 712959953
+    </string>
+    <string name="apartment2">
+        Entebbe Luxury Apartments and Hotels, Entebbe, mobile: +256 717661788/ +256 777661788,
+        email: entebbeluxuryappts@yaho.co.uk
+    </string>
+    <string name="apartment3">
+        M Apartments,Main Entebbe Road, Entebbe, Mobile: +256 772825727/ +256 772491529
+    </string>
+    <string name="apartment4">
+      Afrique Suite Hotel 14A Sserunkuma Road, Upper, upper Mbuya, Kampala. Tel: (041) 4223179. Mobile +256 772469880
+        Email: info@afriquesuiteshotel.co.ug. Website: www.afriquesuithotel.co.ug
+    </string>
+    <string name="apartment5">
+         Arch Apartments, 3Combe Road, Entebbe, Tel: (041) 4323700, mobile: +256 712959953
+    </string>
+    <string name="apartment6">
+        Princess Court Apartments, 3, Government close, Booma, Fort Portal,
+        Mobile: +256 782073216/ +256 782528441, Emaill: kavasta@yahoo.co.uk
+    </string>
+    <string name="apartment7">
+        Acacia Courts 4A AcaciaAvenue, Kololo, Kampala. Mobile: +256 752660000 +256 256 7722606
+        . EMAIL: sovcon@gmail.com
+    </string>
+    <string name="apartment8">
+        Golf course Apartments, 5Makindu Close, Kololo, Kampala, Tel: (041) 4251878/ 4342769
+        email: gci@golfcourseapartments.com
+    </string>
+    <string name="apartment9">
+        Speke Apartments,19 Wampewo Avenue, Kololo Hill Lane, Kololo, Kampala. Tel: (041) 4346180-1
+        Fax: (041) 4235345, Email: spekehotel@spekehotel.com. website. www.spekehotel.com
+    </string>
+    <string name="apartment10">
+        Elizabeth Apartments, BukotoRise, Naguru, Kampala. Mobile: +256 772443355
+    </string>
+    <!-- apartments_end -->
+
+    <!-- Lodge information Here -->
+    <!-- lodge_start -->
+    <string name="lodges">LODGES</string>
+    <string name="lodge1">
+        Holland Park, Mobile: +256 782507788, Email: info@hollandparkuganda.com
+    </string>
+    <string name="lodge2">
+        Otters Rock Cottage, Kayunga Road, Jinja. Mobile: +256 781410693. Email: ottersrocknile@gmail.com
+        websit: www.ottersrock.com
+    </string>
+    <string name="lodge3">
+        The Haven River Lodge, Kayunga Road, 20kms from Jinja. Mobile: +256 702905959/ +256 782905
+        Email: thehavenuganda@yahoo.com. Website: www.thehaven-uganda.com
+    </string>
+    <string name="lodge4">
+        Yello Haven Lodge, Lake Victoria, Kawuka, Ggaba, Mobile: +256 782900457. Email: kelly@cotltalk.com
+        website: www.yellowhaven.com
+    </string>
+    <string name="lodge5">
+         Mayanja River Lodge ltd, 1098 Buziga-kiruddu, Kampala. Tel:(041) 4501018. Fax:(031) 2516903.
+         Mobile:+256 753024543. Email: christian.weth@mayanja-river-lodge.com. Websit: www.mayanja-rivr-lodge.com
+    </string>
+    <string name="lodge6">
+        Budongo Eco Lodegs, Mucshion Falls National Park. Tel:(041) 4267153. Mobile:+256 772426368
+        Email: info@ugandalodges.com, Website: www.ugandalodges.com
+    </string>
+    <string name="lodge7">
+       Fort Murchison, Packwach,Murchison Falls National Park. Tel:(031) 2294894, Email: booking@naturelodges.biz.
+        website: www.naturelodges.biz
+    </string>
+    <string name="lodge8">
+        Sambiya River Lodge, Central Resavation Office:Afri Tours and Travel, Tel:(041) 4233596
+        Email: reseravationssambiyariverlodge.com. Websit: www.afritourstravel.com
+    </string>
+    <!-- lodge_end -->
+
+    <!-- Hotels information Here -->
+    <!-- Hotels_start -->
+    <string name="hotels">HOTELS</string>
+    <string name="hotel1">
+       Lake Heights Hotel, 13, Church Road Entebbe. Mobile: +256 772709363, Email: info@lakeheightshotel.com
+        Website: www.lakeheightshotel.com
+    </string>
+    <string name="hotel2">
+        Airport View Hotel, 34 Kiwafu Close, Entebbe. Mobile: +256 772221881 / +256 772507975
+        Email: reservations@airportviewhoteluganda.com. Websit: www.airportviewhoteluganda.com
+    </string>
+    <string name="hotel3">
+        Anderita Beach Hotel, 5 Mugula Road. Mobile: +256 77244567/ +256 782905
+    </string>
+    <string name="hotel4">
+        Garuga Resort Beach Hotel, 10kms of Entebbe Road Mobile: +256 776700734. Email:
+        garugaresort@yahoo.com, website: www.garugaresort.com
+
+    </string>
+    <string name="hotel5">
+         Imperial Resort Beach Hotel, Tel:(041) 4303000. Fax:(041) 430333. Email:
+        reservation@irbn.com.
+    </string>
+    <string name="hotel6">
+       Laico Lake Victoria Hotel,9-21 Circular Road Entebbe. Tel:(031) 4267153. Fax: (031) 2207500
+        Email: reservation@laico-lakevictoia.com, Website: www.laico-lakevictoria.com
+    </string>
+    <string name="hotel7">
+       Joyna Hotel, Abayia Ababili, Kampala-Entebbe, Garruga Road. Tel:(041) 4323365, Mobile: +256 772422938
+        Email: joyanhotel.aol.com. website: www.naturelodges.biz
+
+    </string>
+    <!-- Hotels_end -->
+
+    <!-- shopping information Here -->
+    <!-- malls_start -->
+    <string name="malls">MALLS</string>
+    <string name="acacia">
+        Acacia Mall Kisementi Kololo, Kampala, Tel: (041) 4341382/ (041) 4344369, email:
+        acaciamall@ug.knightfrank.com, website: www.theacaciamall.com
+    </string>
+    <string name="village">
+        The Village Mall, Bugolobi, Kampala, Tel: (041) 4341382/ (041) 4344369, email:
+        admin@thevillagemall.co.ug, website: thevillagemall.co.ug
+    </string>
+    <string name="nakumat">
+       Nakumatt Oasis Mall, Yusuf Lule Road, Kampala. Tel: (041) 4348040, Email:
+        mgr_oasis@nakumatt.net
+    </string>
+    <string name="freedom">
+      Freedom City Mall, 4010 Kampala-Entebbe Road, Basement Floor, Namasuba. Tel:(041) 4342782
+        mobile: +256 91500125, Email: info@freedomcity.co.ug
+    </string>
+    <string name="garden">
+         Garden City Mall, Yusuf Lule Road, Kampala. Tel:(041) 4258906, Mobile: +256 701114006
+
+    </string>
+    <string name="victoria">
+        Metroplex Shopping Mall, 2112 Spine Boad, Block 220, Naalya,Kampala. Tel:(041) 4240091
+        Email: info@metroplexmall.com. website: www.metroplexmall.com
+    </string>
+    <!-- malls_end -->
+
+    <!-- interior information Here -->
+    <!-- interior_start -->
+    <string name="interior">INTERIORS</string>
+    <string name="interior1">
+        Performance Furnishings, 8 Hannington Road, Nakasero (opposite Serena Hotel) Kampala
+        Tel:(031)2261774, Mobile: +256 772261775, Email:performanceafrica@gmail.com
+    </string>
+    <string name="interior2">
+        The Corporate Center Ltd, Jumbo Plaza, Level-3, Parliament Avenue, Kampala. Tel:
+        (041)711300. Email: enquire2the-cc.com. Website: www.the-cc.com
+    </string>
+    <string name="interion3">
+        Wasanii, Luthuli Avenue, Shop 15A, Ground Floor, The Village Mall Bugolobi, Kampala.
+        Mobile: +256 77448222. Email: elbie@wasanii.ug. Website: www.wasanii.ug
+    </string>
+    <string name="interior4">
+        Design Sudio Uganda 4 Spring Road(behind NFA Building), Bugilobi, Kampala. Mobile:
+        +256 790497577. Email: info@designstudioug.com. Websit: www.designstudioug.com
+    </string>
+    <string name="interior5">
+         Design World By Phiona, Wypars courts-Kiiraopposite Essella Hotel, Mobile:
+        +256 77609070, Email: phionalene@gmail.com.
+    </string>
+    <!-- interion_end -->
+
+    <!-- places information Here -->
+    <!-- parks_start -->
+    <string name="parks">PARKS</string>
+    <string name="park1">
+        Kibate Forest National Park, Contains one of the loveliest and most varied tract of
+        tropical forest in Uganda.
+    </string>
+    <string name="park2">
+        Lake Mburo National Park, Is the smallest of Uganda\'s savannah national parks and is
+        located in Kiruhura District.
+    </string>
+    <string name="park3">
+      Bwindi National Park, It lies in southwest Uganda on the edge of the Rift Valley.
+    </string>
+    <string name="park4">
+      Kidepo Valley National Park, Lies in the rugged, semi arid valleys between Ugandas borders
+        with Sudan and Kenya.
+    </string>
+    <string name="park5">
+         Queen Elizabeth National Park, is understandably Ugandas most popular tourist
+        destination.
+    </string>
+    <string name="park6">
+        Murchion Falls national Park, lies at the northern end of the Albertine Rift Vallay,
+        where the sweeping Bunyoro escarpment tumbles into vast, palm-dotted savanna.
+    </string>
+    <string name="park7">
+        Rwenzori Mountains National Park, The fabled Mountains of the Moon - lie in
+        western Uganda along the Uganda-Congo border.
+    </string>
+    <!-- park_end -->
+
+    <!-- ent information Here -->
+    <!-- ent_start -->
+    <string name="ent">ENTERTAINMENTS</string>
+    <string name="ent1">
+        Stand in two hemispheres at the same time. The best thing to do at the Equator.
+    </string>
+    <string name="ent2">
+        Enjoy the journey to the pick of one the tallest mountain in East Africa at mountain
+        Rwenzori.
+    </string>
+    <string name="ent3">
+        Enjoy the best scenery at Murchion falls in western Uganda
+    </string>
+    <string name="ent4">
+        Some of our best games in the forest.
+    </string>
+    <string name="ent5">
+        Sky diving at the Nile.
+    </string>
+    <!-- interion_end -->
+</resources>

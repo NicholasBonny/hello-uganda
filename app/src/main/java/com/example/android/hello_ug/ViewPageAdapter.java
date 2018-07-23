@@ -1,0 +1,42 @@
+package com.example.android.hello_ug;
+
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentPagerAdapter;
+
+import java.util.ArrayList;
+import java.util.List;
+
+/**
+ * Created by user on 7/3/2018.
+ */
+
+public class ViewPageAdapter extends FragmentPagerAdapter {
+    private final List<Fragment> lstFragment = new ArrayList<>();
+    private final List<String> lstTitle = new ArrayList<>();
+
+    public ViewPageAdapter(FragmentManager fm) {
+        super(fm);
+    }
+
+    @Override
+    public Fragment getItem(int position) {
+        return lstFragment.get(position);
+    }
+
+    @Override
+    public int getCount() {
+        return lstTitle.size();
+    }
+
+    @Override
+    public CharSequence getPageTitle(int position) {
+        return lstTitle.get(position);
+    }
+
+    public void AddFragment(Fragment fragment, String titles){
+
+        lstFragment.add(fragment);
+        lstTitle.add(titles);
+    }
+}

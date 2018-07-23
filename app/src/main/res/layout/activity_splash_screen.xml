@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_splash_screen"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context="com.example.android.hello_ug.SplashScreen">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerInParent="true"
+        android:scaleX=".5"
+        android:scaleY=".5"
+        android:src="@drawable/logo"
+        android:id="@+id/imageView"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/welcome_note"
+        android:textSize="35sp"
+        android:fontFamily="sans-serif-condensed"
+        android:textStyle="italic"
+        android:textColor="#383434"
+        android:scaleY=".5"
+        android:id="@+id/textView"
+        android:layout_marginTop="170dp"
+        android:layout_alignTop="@+id/imageView"
+        android:layout_alignRight="@+id/imageView"
+        android:layout_alignEnd="@+id/imageView"
+        android:layout_marginRight="25dp"
+        android:layout_marginEnd="25dp" />
+
+</RelativeLayout>
